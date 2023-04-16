@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Truck-store/static/css/main.5f98525d.css",
+    "main.js": "/Truck-store/static/js/main.ac21bcd3.js",
+    "static/js/787.8ce1cb7a.chunk.js": "/Truck-store/static/js/787.8ce1cb7a.chunk.js",
+    "static/media/truck-11.jpeg": "/Truck-store/static/media/truck-11.6427ef35b1b0f132e1cc.jpeg",
+    "static/media/truck-44.jpeg": "/Truck-store/static/media/truck-44.64b60b71adf82d0f5283.jpeg",
+    "static/media/istockphoto.jpg": "/Truck-store/static/media/istockphoto.a458a50e92cde5da9026.jpg",
+    "static/media/truck-222.jpeg": "/Truck-store/static/media/truck-222.a0e186522da8520689dd.jpeg",
+    "static/media/truck-1.jpeg": "/Truck-store/static/media/truck-1.2ff0659a1997f0be5a45.jpeg",
+    "static/media/logo.png": "/Truck-store/static/media/logo.2b22ec8c2ffa305dc9c0.png",
+    "index.html": "/Truck-store/index.html",
+    "main.5f98525d.css.map": "/Truck-store/static/css/main.5f98525d.css.map",
+    "main.ac21bcd3.js.map": "/Truck-store/static/js/main.ac21bcd3.js.map",
+    "787.8ce1cb7a.chunk.js.map": "/Truck-store/static/js/787.8ce1cb7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f98525d.css",
+    "static/js/main.ac21bcd3.js"
+  ]
+}
