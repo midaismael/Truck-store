@@ -1,0 +1,27 @@
+.sale {
+    background-color: rgba(35,124,122,0.2);
+    margin: auto;
+    padding-top: 100px;
+}
+.card-left ,.card-right {
+    background-color: #237c7a;
+    color: #fff;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border-radius: 40px;
+    height: 132px;
+    width: 314px;
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 25px;
+    margin-bottom: 25px; 
+}
+.card-right{
+    background-color: #08aaa6 !important;
+}
+.sale img{
+    margin-left: 162px;
+}

@@ -1,0 +1,30 @@
+.carousal-section {
+    position: relative;
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    background-color: #08aaa6;
+    border-radius: 30px;
+    margin-bottom: 100px;
+}
+.wom-img{
+    position: relative;
+    left: 480px;
+    margin-top: 65px;   
+    width: 250px !important;
+    height: 250px;
+    border-radius: 50%;
+}
+.carousel-indicators{
+    bottom: -65px;
+}
+.carousel-indicators  [data-bs-target] {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    
+}
+.carousal-section p{
+    margin-right: 250px;
+    font-weight: bold;
+}

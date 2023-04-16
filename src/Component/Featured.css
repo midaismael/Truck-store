@@ -1,0 +1,37 @@
+.featured .header{
+    margin: auto;
+}
+.featured h1{
+    letter-spacing: 0.4em;
+    font-size: 70px;
+    font-weight: bold;
+    color: rgba(35,124,122,0.6);
+}
+.featured h2{
+    font-size: 50px;
+    font-weight: 400;
+}
+.featured h2 span{
+    color: rgba(35,124,122,0.6) !important;
+}
+.featured button{
+    width: 170px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: rgba(35,124,122,0.3);
+    border: 1px rgba(35,124,122,0.3);
+    font-weight: bold;
+    color: #237c7a;
+    font-size: 20px;
+    margin-top: 25px;
+}
+.featured .pic-man-1{
+    opacity: 0.54;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.featured .pic-man-2{
+    opacity: 0.54;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
